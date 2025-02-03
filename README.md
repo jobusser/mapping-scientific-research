@@ -10,8 +10,7 @@ of
 The project investigates methods of analysing and summarising the trends in South African research.
 
 The project was unfortunately not extended for further research; 
-I entered the working world. The project is property to [Stellenbosch University](https://www.sun.ac.za/english); 
-hence the extent to what I can share with a good conscious is the report you find in this repository. 
+I entered the working world. The project is property to [Stellenbosch University](https://www.sun.ac.za/english).
 I am rather proud of the results, even with some shortcomings that can be found in any researcher's first attempt.
 
 I would appreciate anyone who takes the time to read the attached academic paper.
